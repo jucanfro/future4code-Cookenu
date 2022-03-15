@@ -2,7 +2,7 @@
 
 
 ## O que é:
-Esse projeto foi desenvolvido com o intuito de simular um site de receitas culinárias básico.
+Esse projeto foi desenvolvido com o intuito de simular um site de receitas culinárias básico. Utilizando a API Cookenu.
 Para ter acesso a estas receitas, o usuário pode se cadastrar necessitando de nome, email válido e senha com no minimo 6 caracteres, ou caso já esteja cadastrado, somente precisa se logar utilizando email e senha.
 Na página inicial, após o login, aparece uma lista com fotos e títulos de todas as receitas disponíveis no site. Ao clicar na foto, abre o detalhamento da mesma. Fixo no canto inferior direito está o botão de adicionar refeitas, onde o usuário pode colaborar e compartilhar sua receita, basta preencher os campos com título, descrição e o link com a foto.
 
